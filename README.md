@@ -1,0 +1,3 @@
+# Lab Notebook for Experiments for the Paper "Exploring SARIMAX analysis for forecasting internal JVM memory consumption in Kubernetes clusters"
+
+This repository contains the Google Colab notebook used to process and analyse data used in the paper "Exploring SARIMAX analysis for forecasting internal JVM memory consumption in Kubernetes clusters." The lab notebook can be found in [jvm_memory_sarimax.ipynb](./jvm_memory_sarimax.ipynb).
